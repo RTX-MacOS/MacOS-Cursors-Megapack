@@ -1,11 +1,10 @@
-# MacOS Cursors Megapack By domi
-Thanks for using my cursor pack! I'm a pro programmer.
+# MacOS Cursors Megapack By c9pz
 # How to install
 1: Choose your choice.
 2: Choose the size.
-3: You will see a file named install.inf, Right-click on it and click "Install".
+3: Find the file named install.inf, Right-click on it and click "Install".
 4: It will automatically open the mouse settings, Choose the macOS scheme, And done.
-5: Enjoy! (Note that this is not affialted with apple co.)
+5: Enjoy!
 
 # Support
 If you like the cursor and want to support me, then these ways are best (some ways are paid and some are free.)
@@ -18,10 +17,5 @@ coindrop.to/rtx
 
 # How to fix issues with cursor
 # Common issues
-If the cursor isn't visible, you haven't used the install.inf.
-If the cursor can't move, you probably have enabled unstable options for the cursor.
-# Credits
-domi - Owner
-NinjaTricky - Design, Textures, Tested all types of cursor
+If the cursor isn't visible, try re-doing the steps from 1-4 in "How to install".
 
-made with ❤ by domi and NinjaTricky
