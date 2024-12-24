@@ -8,9 +8,7 @@
 
 4: It will automatically open the mouse settings, Choose the macOS scheme, And done.
 
-5: Enjoy!
-
 # How to fix issues with cursor
 ## Common issues
-If the cursor isn't visible, try re-doing the steps from 1-4 in "How to install".
+If the cursor isn't visible, try re-doing the steps in "How to install".
 
