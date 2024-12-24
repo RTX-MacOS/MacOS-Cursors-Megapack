@@ -1,5 +1,5 @@
-# MacOS Cursors Megapack By c9pz
-# How to install
+# MacOS Cursors Megapack
+## How to install
 1: Choose the style
 
 2: Choose the size
